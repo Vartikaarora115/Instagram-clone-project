@@ -7,4 +7,3 @@ launching campaign to target the weekdays with the most user registerations
 encouraging inactive users to log in back to the system
 etc.
 
-SQL Language : Mariadb
